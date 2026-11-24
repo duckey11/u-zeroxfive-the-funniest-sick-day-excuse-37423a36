@@ -10,7 +10,7 @@ import os
 ENTRY = (
     "My apartment door locked itself with the keys inside and the "
     "locksmith said two hours, so I'm working from the hallway in "
-    "my socks until further notice."
+    "my socks, borrowing the neighbour's Wi-Fi until further notice."
 )
 
 
